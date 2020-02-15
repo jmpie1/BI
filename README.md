@@ -1,4 +1,6 @@
 # BI
-Content BI
+Content BI from DataCamp courses
 
-Other add
+1- POO in Python
+
+
